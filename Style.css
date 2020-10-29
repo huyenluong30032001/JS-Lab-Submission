@@ -1,0 +1,8 @@
+main {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+main ol li {
+    padding: 5px 0px;
+}
